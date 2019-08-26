@@ -1,0 +1,330 @@
+{
+  "src_lang": "de",
+  "dst_lang": "en",
+  "query": "lieben",
+  "correct_query": "lieben",
+  "exact_matches": [
+    {
+      "featured": true,
+      "wt": 201,
+      "lemma_id": "DE:lieben31217",
+      "text": "lieben",
+      "word_type": {
+        "pos": "verb"
+      },
+      "audio_links": [
+        {
+          "url_part": "DE/11/11c7870f21801bb47dedfced2e0d5d49-201",
+          "lang": "German"
+        }
+      ],
+      "forms": None,
+      "translations": [
+        {
+          "featured": true,
+          "text": "love",
+          "bid": "10000011530",
+          "lemma_id": "EN:love57025",
+          "word_type": {
+            "pos": "verb"
+          },
+          "audio_link": [
+            {
+              "url_part": "EN_US/b5/b5c0b187fe309af0f4d35982fd961d7e-200",
+              "lang": "American English"
+            },
+            {
+              "url_part": "EN_UK/b5/b5c0b187fe309af0f4d35982fd961d7e-200",
+              "lang": "British English"
+            }
+          ],
+          "examples": [
+            {
+              "source": "Ich liebe die Stimme der Sängerin.",
+              "target": "I love the singer"s voice."
+            }
+          ]
+        },
+        {
+          "featured": False,
+          "text": "like",
+          "bid": "10000011525",
+          "lemma_id": "EN:like55862",
+          "word_type": {
+            "pos": "verb"
+          },
+          "audio_link": [
+            {
+              "url_part": "EN_US/be/be1ab1632e4285edc3733b142935c60b-200",
+              "lang": "American English"
+            },
+            {
+              "url_part": "EN_UK/be/be1ab1632e4285edc3733b142935c60b-200",
+              "lang": "British English"
+            }
+          ],
+          "examples": []
+        }
+      ]
+    },
+    {
+      "featured": False,
+      "wt": 1,
+      "lemma_id": "DE:Sie#lieben#sich#57501",
+      "text": "Sie lieben sich.",
+      "word_type": {},
+      "audio_links": [
+        {
+          "url_part": "EN_UK/c8/c829f5b77b56bd712bd5161d2ff22cff-0",
+          "lang": "British English"
+        }
+      ],
+      "forms": None,
+      "translations": [
+        {
+          "featured": False,
+          "text": "They love one another.",
+          "bid": "10000184645",
+          "lemma_id": "EN:They#love#one#another#27382",
+          "word_type": {},
+          "audio_link": [
+            {
+              "url_part": "EN_UK/c8/c829f5b77b56bd712bd5161d2ff22cff-0",
+              "lang": "British English"
+            }
+          ],
+          "examples": []
+        }
+      ]
+    },
+    {
+      "featured": true,
+      "wt": 104,
+      "lemma_id": "DE:Liebe61969",
+      "text": "Liebe",
+      "word_type": {
+        "pos": "noun",
+        "gender": "feminine"
+      },
+      "audio_links": [
+        {
+          "url_part": "DE/3d/3ddc8df04dc5218d7fd3608716ee1df5-104",
+          "lang": "German"
+        }
+      ],
+      "forms": None,
+      "translations": [
+        {
+          "featured": true,
+          "text": "love",
+          "bid": "10000514033",
+          "lemma_id": "EN:love57025",
+          "word_type": {
+            "pos": "noun"
+          },
+          "audio_link": [
+            {
+              "url_part": "EN_US/b5/b5c0b187fe309af0f4d35982fd961d7e-101",
+              "lang": "American English"
+            },
+            {
+              "url_part": "EN_UK/b5/b5c0b187fe309af0f4d35982fd961d7e-101",
+              "lang": "British English"
+            }
+          ],
+          "examples": [
+            {
+              "source": "Mein Herz ist voller Liebe und Zuneigung.",
+              "target": "My heart is full of love and affection."
+            }
+          ]
+        },
+        {
+          "featured": False,
+          "text": "affection",
+          "bid": "10000293988",
+          "lemma_id": "EN:affection51466",
+          "word_type": {
+            "pos": "noun"
+          },
+          "audio_link": [
+            {
+              "url_part": "EN_US/29/29b068a24120b71ea06f582c547816ec-101",
+              "lang": "American English"
+            },
+            {
+              "url_part": "EN_UK/29/29b068a24120b71ea06f582c547816ec-101",
+              "lang": "British English"
+            }
+          ],
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "inexact_matches": None,
+  "real_examples": [
+    {
+      "id": "",
+      "src": "Und er sprach zu ihm: Nimm deinen Brief und schreib achtzig. 8Und der HERR lobte den ungerechten Haushalter, daß er klüglich gehandelt hatte; denn die Kinder dieser Welt sind klüger als die Kinder des Lichtes in ihrem Geschlecht. 9Und ich sage euch auch: Machet euch Freunde mit dem ungerechten Mammon, auf daß, wenn ihr nun darbet, sie euch aufnehmen in die ewigen Hütten. 10Wer im geringsten treu ist, der ist auch im Großen treu; und wer im Geringsten unrecht ist, der ist auch im Großen unrecht. 11So ihr nun in dem ungerechten Mammon nicht treu seid, wer will euch das Wahrhaftige vertrauen? 12Und so ihr in dem Fremden nicht treu seid, wer wird euch geben, was euer ist? 13Kein Knecht kann zwei Herren [...] dienen: entweder er wird den einen [...] hassen und den andern lieben, oder er wird dem einen [...] anhangen und den andern verachten.",
+      "dst": "And he said unto him, Take thy bill, and write fourscore. 8And the lord commended the unjust steward, because he had done wisely: for the children of this world are in their generation wiser than the children of light. 9And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations. 10He that is faithful in that which is least is faithful also in much: and he that is unjust in the least is unjust also in much. 11If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? 12And if ye have not been faithful in that which is another man"s, who shall give you that which is your own? 13No servant [...] can serve two masters: for either he [...] will hate the one, and love the other; or else he [...] will hold to the one, and despise the other.",
+      "url": "http://www.listentheword.org/cristo/de/read-bible-parts-othermenu-47/19-lucas-luke-lukas/120-lucas-16.html"
+    },
+    {
+      "id": "",
+      "src": "Verbunden mit unserem herzlichen Dank für das entgegengebrachte Vertrauen - auch und gerade [...] in diesen schwierigen Zeiten, wünsche [...] ich Ihnen und Ihren Lieben eine gesunde, friedvolle [...] und fröhliche Weihnachtszeit und [...] einen guten Rutsch ins neue Jahr.",
+      "dst": "With many thanks for your trust in us, [...] especially in these difficult times, [...] I wish you and your loved ones a peaceful and [...] happy Christmas and a healthy start into the New Year.",
+      "url": "http://rothlehner.de/buehnenspiegel/buehnenspiegel_buehnenspiegel22mitfax.pdf"
+    },
+    {
+      "id": "",
+      "src": "Als intellektuelle Beschäftigung führt das Studium nicht nur dazu, die Wissenschaft und die Lehre zu erlernen, sondern vor allem, die Weisheit des Geistes zu erwerben und sich von der Wahrheit [...] und vom Guten einnehmen [...] zu lassen, um den Herrn zu lieben und zu loben, dem alles Gute gehört, und um den Brüdern in der Liebe Christi zu dienen.",
+      "dst": "As an intellectual activity, study leads not only to learning science and doctrine, but above all to achieve wisdom of spirit and to allow oneself be [...] possessed by the Truth and [...] the Good, in order to love and praise the Lord to whom belongs all good and to serve the brothers in the charity of Christ.",
+      "url": "http://www.ofm.org/01frat/pdf2001/0801ger.pdf"
+    },
+    {
+      "id": "",
+      "src": "anspruchvolle [...] basketballspieler werden ihn lieben: den TRIPLE A PLUS [...] MID von AND1. ein basketballschuh, der speziell für [...] flinke und besonders agile spieler konzipiert ist, denn dank seiner leichten bauweise und der tief profilierten, abriebfesten sohle aus gummi wird dir beste traktion geboten. somit stehen plötzlichen richtungswechsel und einem schnellen antritt nichts mehr im wege. die spitzen verarbeitung, die synthetisches leder und lack-elemente aufeinander abstimmt, bietet die dabei die nötige stabilität, um nicht verletzt auf der erstzbank zu landen. mesh-einsätze und gestanzte löcher im obermaterial garantieren dir zudem beste atmungsaktivität und ein angenehm, trockenes tragegefühl. and1 schafft es diesem schuh stabilität und funktionalität zu verleihen, ohne dabei deine bewegungsfreiheit einzuschränken. der triple a plus mid - der perfekte sportschuh, der deine moves optimal unterstützt und dich zum sieger auf dem spielfeld macht!",
+      "dst": "demanding basketball [...] players are going to love them: the TRIPLE A [...] PLUS MID by AND1. a basketball shoe, designed especially [...] for very quick and agile players, which provides the best traction, thanks to a very light construction and a deep profiled rubbersole. thus sudden direction-changes and a fast start are made easy. the top processing, which combines synthetic leather and varnish-elements, offers you the necessary stability to avoid injuries. mesh-inserts and stamped holes on the upper material additionally guarentee best breathability and dry wearing comfort. and1 made a shoe with stability and functionality, without limiting your mobility. the triple a plus mid - the perfect sportshoe which supports your moves and makes you to the winner on the basketball court!",
+      "url": "http://www.kickz.com/de/and1/schuhe/basketball-funktion/triple-a_-mid-kids-weiss_schwarz_silber"
+    },
+    {
+      "id": "",
+      "src": "um das ideale wohnklima für sie zu schaffen, erbringen ihre Gaulhofer fenster eine fülle unterschiedlicher leistungen auf einmal: sie lassen das sonnenlicht und die frischluft in der von ihnen gewünschten Dosis [...] ins haus, sie halten störenden [...] lärm von ihnen und ihren lieben fern, sie trotzen wind [...] und regen wie felsen im sturm, sie [...] gleichen temperaturunterschiede zwischen außen und innen zu jeder Jahreszeit aus und sie halten die raumtemperatur auf konstant angenehmem niveau.",
+      "dst": "to create the ideal living climate the Gaulhofer windows provide a host of different performances all at once: they only allow the amount of sunlight and fresh air you desire into the [...] house, they keep disturbing noise [...] away from you and your loved ones, they resist wind [...] and rain like rocks in the storm, [...] they equalize temperature differences between inside and outside during all seasons of the year and they keep room temperatures constant at a pleasant level.",
+      "url": "http://www.gaulhofer.com/uploads/tx_agnscribd/Gaulhofer-Fensterkatalog-2009.pdf"
+    },
+    {
+      "id": "",
+      "src": "Wir sind unfähig, den Fluss unserer Worte einzuschränken und sind eingeladen, weniger Reden zu halten und mehr Raum, allen Raum, dem Lebenszeugnis zu geben: Möge euer Leben von neuem eine Entscheidung für den Frieden sein; [...] und weiter: [...] Verschließt euch nicht, meine lieben Kinder, sondern nutzt diese Zeit und sucht die Gabe des Friedens und der Liebe für euer Leben, damit [...] ihr zu Zeugen für die Anderen werdet.",
+      "dst": "We do not know, but we are certainly all invited to speak less, to limit the flow of our words and to give more space, perhaps all space, to the testimony of life: may your life be once again a decision [...] for peace; and again: do [...] not close yourselves little children, but take advantage of this time and seek the gift of peace and love for your lives so [...] that you might become witnesses for others.",
+      "url": "http://www.ecodimaria.net/TED-ARR/202TED.PDF"
+    },
+    {
+      "id": "",
+      "src": "Natürlich sind alle Bemühungen um die Verringerung von Verkehrsunfällen wertvoll, nicht nur wegen der großen sich ergebenden Einsparungen, sondern vor allem, weil jedes gerettete Leben eine vermiedene [...] Tragödie darstellt, nicht nur für die [...] Familie, die eines ihrer Lieben beraubt ist, sondern [...] natürlich auch wegen der verantwortlichen [...] Verursacher von Tod und Verletzungen.",
+      "dst": "All efforts to reduce accidents on the roads are obviously worthwhile, not only because of the huge savings that accrue but most of all because every life saved is a [...] tragedy avoided, not only for the family [...] that is bereaved of a loved one, but also of course [...] for the people responsible for causing deaths and injuries.",
+      "url": "http://www.europarl.europa.eu/"
+    },
+    {
+      "id": "",
+      "src": "klassisch und auf den punkt - genau der [...] CONVERSE-style wie wir in lieben, gekonnt präsentiert [...] im WMNS ALL STAR SLIM OX. der zeitlose [...] style des sneakers wird geprägt durch eine schmalgeschnittene silhouette und einem schönen low-cut design. ganz in braun gehaltenes leder ziert die oberseite des schuhs und wird durch eine hellbraune 6-loch-schnürung perfekt aufgewertet. ein feines detail erhält der schnürschuh durch zwei dekoösen auf der innenseite. die vulkanisierte sohle aus gummi mit hochwertigen perforierungen und die zehenkappe geben dir den nötigen grip und halt, für absolut jede alltagssituation. super bequem und gleichzeit topaktuell präsentiert sich der klassiker aus dem hause converse. perfekt kombinierbar zu jedem deiner looks, wird der freizeitschuh wmns all star slim ox ein unverzichtbarer bestandteil eines jeden schuhschranks!",
+      "dst": "classic and at the point - exactly the [...] CONVERSE-style that we love, skillfully presented [...] in the WMNS ALL STAR SLIM OX. the timeless [...] style of the sneaker is shaped by a thin silhouette and a nice low-cut look. the entirely upperside of the shoe is designed in brown leather and is accentuated with a 6-hole-lacing in a ligth brown. additional details are the decor-eyelets at the inside. the vulcanizes rubber-sole with high-quality perforations and the toe cap provide the necessary grip and fit for absolutely every situation. super comfortable und up-to-date, definitely a classic made by converse. perfecty combinable to every of your looks, the leisure shoe wmns all star slim ox becomes to an indispensable component of any shoe cabinet!",
+      "url": "http://www.kickz.com/at/converse/schuhe/classics-high/wmns-all-star-slim-ox-suede-braun"
+    },
+    {
+      "id": "",
+      "src": "Dass es durch Akteure im Norden und im Süden Fehlverwendung von Hilfsmittel gab und gibt, dass es in Bezug auf Kosteneffektivität, Effizienz und Signifikanz in vielen Fällen [...] erheblichen Verbesserungsspielraum [...] gibt und von mancher lieben Seele mit brennendem [...] Herzen, aber wenig kühlem Kopf groteske [...] Fehlleistungen produziert werden - wer möchte des bestreiten.",
+      "dst": "Who would dispute that there were and are actors in both North and South who misuse the aid which is given, that there is substantial room for improvement in terms of cost effectiveness, efficiency and significance in many [...] cases, and that grotesque mistakes have [...] been made by many a dear soul with passion [...] in their heart but precious little in the way of a cool head?",
+      "url": "http://www.novartisfoundation.org/platform/content/element/112/Speech-Leisinger[D].pdf"
+    },
+    {
+      "id": "",
+      "src": "Die Liebe zur Kirche drängt uns auch jetzt, diese Kirche, die uns verfolgt hat, mit unendlicher Wärme zu lieben, alles Vergangene [...] zu vergessen und [...] uns nunmehr mit ganzer Kraft dafür einzusetzen, dass unsere Familie die große Sendung erfüllt, der Kirche zu helfen, siegreich vorzustoßen an das Ufer der neuesten Welt, also das Ideal der neuen Kirche, der Kirche am neuesten Ufer, zu verwirklichen.",
+      "dst": "Love for the Church now urges us to love with infinite tenderness the same Church which persecuted us, to forget the past, and [...] to now work with all [...] our might so that our family would fulfill its great mission to help the Church victoriously reach the shore of the newest world, that is, to realize the ideal of the new Church, of the Church on the newest shore.",
+      "url": "http://cmsms.schoenstatt.de/de/uploads/pdf-dateien-statisch/Meilensteine/4t0868-20040709fr-jonathan-niehaus-deu.pdf"
+    },
+    {
+      "id": "",
+      "src": "Sie verstanden, dass wahrhaftige und nachhaltige Re formen an der Basis beginnen [...] mussten, indem man Menschen half, Gott so zu [...] erkennen und zu lieben, wie er sich in [...] Jesus Christus gezeigt hat, indem man sie [...] ermutigte, ihr persönliches spirituelles Leben zu entwickeln, indem man ihnen Ausbildung zukommen ließ, damit sie aktiv am Leben und der Sendung der Kirche teilnehmen konnten.",
+      "dst": "They understood that true and lasting reform [...] must begin at the grass roots, helping [...] people to know and love God as revealed in [...] Jesus Christ, encouraging the development [...] of their personal spiritual life, educating them to enable them to b e active participants in the life and mission of the Church.",
+      "url": "http://www.congregatiojesu.org/uploadspdf/de/Symposium_Rom_Mary_Wright_2009.pdf"
+    },
+    {
+      "id": "",
+      "src": "Das NMI, Naturwissenschaftliches und Medizinisches Institut an der Universität Tübingen in Reutlingen, in dessen Rahmen das Pilotprojekt KWTK entstand, danke ich herzlich in Person des Direktors Dr. Enzio Müller [...] und seines Stellvertreters Dr. Otto [...] Inacker sowie meiner lieben Kollegen für den Beistand [...] und für die wunderbare Atmosphäre [...] während der gemeinsamen Jahre.",
+      "dst": "I cordially thank the NMI, the Natural Scientific and Medical Institute at the University of Tübingen in Reutlingen, in whose framework the KWTK pilot project arose, in the person of Director Dr. [...] Enzio Müller and his deputy, Dr. [...] Otto Inacker, as well my dear colleagues, for their [...] support and the wonderful atmosphere [...] during our years working together.",
+      "url": "http://www.schapiro.org/boris/tif-deut1+abc.pdf"
+    },
+    {
+      "id": "",
+      "src": "Zum Zeitpunkt des Todes [...] werden uns die, die wir lieben, unser Wohlstand und [...] sogar unser hoch geschätzter Körper nicht begleiten können.",
+      "dst": "At the time of death, our loved ones, our wealth, and [...] even our most cherished body will not be able to accompany us.",
+      "url": "http://www.khordong.de/Deutsch/Rundbriefe/2009/d_rb_09_innen.pdf"
+    },
+    {
+      "id": "",
+      "src": "Wir müssen fragen, wie die CIB unseren Schwestern- und Nonnengemeinschaften helfen kann, gemeinsame Grundlagen mit der [...] jüngeren Generation zu finden, ihnen Raum zu geben damit sie wachsen und [...] lernen, das Leben im Dienst des Herrn zu lieben.",
+      "dst": "We need to ask how the CIB can help our communities of nuns and sisters to [...] find common ground with the younger generation, giving them space to [...] grow and to learn to love life in the service of Lord.",
+      "url": "http://benedictines-cib.org/deutsch/newsletter/newsletter_2005_deutsch.pdf"
+    },
+    {
+      "id": "",
+      "src": "Vinzenz von Paul überzeugt, als er den [...] Schwestern von der Liebe folgendes Lebensprogramm gab: »Der Geist der Gesellschaft besteht in der Hingabe an Gott, um unseren Herrn zu lieben und ihm in der Person der materiell und geistlich Armen in ihren Häusern oder anderswo zu dienen, um die armen jungen Mädchen, die Kinder und ganz allgemein alle zu unterrichten, die Euch die göttliche Vorsehung schickt«.nter den verschiedenen möglichen Bereichen der Liebe ist heutzutage jener, der der Welt die Liebe »bis zur Vollendung« [...] auf besondere [...] Weise offenbar macht, mit Gewibheit die begeisterte Verkündigung Jesu Christi an all jene, die ihn noch nicht kennen, an jene, die ihn vergessen haben, und vorzugsweise an die Armen.",
+      "dst": "Saint Vincent de Paul was deeply convinced of this when he explained to [...] the Daughters of [...] Charity this programme of life: "The spirit of the Society consists in giving yourselves to God in order to love our Lord and to serve him in the person of the materially and spiritually poor, in their houses and elsewhere, in order to teach poor young girls, children, in general anybody whom Divine Providence sends you".oday, among the possible works of charity, certainly the one which in a special way shows the world this love "to the end" is the fervent proclamation [...] of Jesus Christ to those [...] who do not yet know him, to those who have forgotten him, and to the poor in a preferential way.",
+      "url": "http://www.pcf.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_25031996_vita-consecrata_ge.html"
+    },
+    {
+      "id": "",
+      "src": "Die Begegnung mit den Meeressäugern in Freiheit durch respektvolles Whale Watching sowie eine kontinuierliche Aufklärungsarbeit durch Informationen aus erster Hand, Forschung und Schulung führen zu einer [...] Sensibilisierung der Menschen gemäß dem Motto der Stiftung: "Nur was wir [...] Menschen kennen und lieben, sind wir bereit [...] zu schützen".",
+      "dst": "The encounter with the marine mammals in freedom through respectful whale watching as well as continuous educational work with information at first hand, research and schooling lead to a sensitization [...] of the people, pursuant to the foundation\"s motto: "Only what people know about they [...] will be able to love and protect".",
+      "url": "http://www.firmm.org/de/presse.html?file=tl_files/firmm/download/pressetexte/de/0_Pressemappe_firmm_%28komplett%29.pdf"
+    },
+    {
+      "id": "",
+      "src": "Wenn man in dieser Art dem Vorstand am Goetheanum Verständnis entgegenbringt, dann wird man sehen - natürlich [...] wird alles langsam gehen, Sie [...] müssen Geduld haben, meine lieben Freunde; aber wenn es [...] auch langsam gehen wird: es wird doch [...] nach und nach alles einzelne der Weihnachtsabsichten ausgeführt werden.",
+      "dst": "If one approaches the Vorstand in this way, with understanding, then it will be seen now - of course [...] everything will proceed slowly, you [...] must have patience my dear friends; but even if it [...] proceeds slowly - every single intention [...] of the christmas meeting will in time, be put into effect.",
+      "url": "http://www.joergensmit.org/de/pdf/die_jugendsektion_und.pdf"
+    },
+    {
+      "id": "",
+      "src": "alle anderen anlässe, und es sind viele. finden an tagen statt, welche nicht von vornherein definiert sind. die daten für diese anlässe werden durch die regierung" bzw. dem könig von kaZantip erst kurzfristig (manchmal gar erst ein paar stunden zuvor), am schwarzen brett beim kaZantip areal ausgehängt und bekannt gegeben! selbstverständlich werden unsere gäste vor ort jederzeit auf dem laufenden gehalten, dies sobald klar ist, was wann und wo passiert. dies mag dir vorerst umständlich [...] und kompliziert erscheinen. die [...] eingefleischten paradiZer lieben jedoch das unerwartete [...] und die stetigen überraschungen.",
+      "dst": "the dates for the other numerous important occasions are not fixed long in advance but are announced by the "government" or the king of kaZantip party land and publicised on the notice board in the kaZantip entrance complex at short notice (sometimes just a few hours before!). however, it goes without saying that we keep our guests up to date with the latest information at all times after their arrival. so you know what is happening, where and when. you might find this takes some [...] getting used to at the outset. however, what [...] experienced paradiZers love most are the constant unexpected [...] surprises here.",
+      "url": "http://kazantip.de/wie-ist-kazantip.html"
+    },
+    {
+      "id": "",
+      "src": "Die Sache, die mich aber doch am meisten erstaunt hat, ist diese: Diejenigen auf der Plattform, die Er rief, die Seine Stimme hörten und fühlten, dass sie ihr gehorchen sollten [...] zumindest sagten sie dies - diese, die [...] bekannten, Ihn sehr zu lieben, waren in voller Sympathie [...] mit IHM für die Aufgabe, die [...] er auf sich genommen hatte; diejenigen, die ihn anbeteten oder behaupteten dies zu tun, waren von ihrem Handel und ihren Berufen, ihrem Geldsparen und Vergnügungen, ihren Familien und Freunden, ihren Religionen und Diskussionen darüber und von ihren Vorbereitungen, um auf das Festland zu gehen, so vereinnahmt, dass sie nicht auf das Rufen hörten, das von diesem wunderbaren Lebewesen kam, welches selbst in die See hinuntergegangen war.",
+      "dst": "But the thing to me that seemed the most amazing was that those on the platform to whom He called, who heard His voice and felt that they ought to [...] obey it- at least they said they did- [...] those who confessed to love Him much were in full [...] sympathy with Him in the task He had [...] undertaken- who worshipped Him or who professed to do so- were so taken up with their trades and professions, their money saving and pleasures, their families and circles, their religions and arguments about it, and their preparation for going to the mainland, that they did not listen to the cry that came to them from this Wonderful Being who had Himself gone down into the sea.",
+      "url": "http://www.ibtc-ffm.de/ibtc-pdf/W._Booth_EINE_VISION_UBER_DIE_VERLORENEN.pdf"
+    },
+    {
+      "id": "",
+      "src": "Nachdem ich die Freude hatte, mit Pater Kondor bei der Seligsprechung von Francisco und Jacinta zusammengearbeitet zu haben und damit auch die Möglichkeit gehabt habe, den Geist zu erfahren, der sein Leben animiert und auch die Existenz von Francisco und Jacinta charakterisiert hat, denke und glaube ich, dass der gute [...] Gott ihm gewährt hat, bei ihnen im Licht des Herrn zu sein, zusammen mit der [...] Heiligen Maria, der Lieben Frau von Fátima.",
+      "dst": "Having received from God the grace to work with Fr Kondor in the Beatification of Francisco and Jacinta, and so the possibility of appreciating the spirit which animated his life, the same spirit that had animated the lives of Francisco and Jacinta, I think and believe that our good [...] God has already enabled him to be with them in [...] the Light of the Lord, together with Mary [...] Most Holy, our Lady of Fatima.",
+      "url": "http://pastorinhos.com/basededados/D_4_09.pdf"
+    },
+    {
+      "id": "",
+      "src": "Die Schiffe für alle, die [...] es gemütlich lieben: Geräumige Kabinen, [...] gepflegte Atmosphäre und ein Preis, der die Entscheidung [...] leicht macht, den Seeweg nach Schweden zu bevorzugen.",
+      "dst": "The ferries [...] for those who like things cosy: spacious [...] cabins, cultivated atmosphere and a price that makes it easy to opt for the sea route to Sweden.",
+      "url": "http://www.ttline.com/ImageVault/Images/id_10569/ImageVaultHandler.aspx"
+    },
+    {
+      "id": "",
+      "src": "Im Namen dieses Universalrechts, das eine der Säulen des Verfassungsvertrags bildet, und zusätzlich zur Einrichtung eines internationalen Ausschusses, der unverzüglich mit der Arbeit beginnen muss, ersuche ich die neu gewählten rumänischen Behörden, keine wertvolle Zeit zu verlieren und diesen [...] Kindern zu Weihnachten die Eltern zu [...] schenken, die sie bereits lieben und mit denen sie eine [...] bessere Zukunft in einem friedlichen Europa aufbauen können.",
+      "dst": "In the name of that universal right, which is one of the strong points of the Constitutional Treaty, and in addition to the creation of an international commission to start work straight away, I call on the newly-elected Romanian authorities not to waste precious time and, for [...] Christmas, to give those children the [...] parents that already love them and with whom they [...] can build a better future in a peaceful Europe.",
+      "url": "http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+CRE+20041215+ITEMS+DOC+XML+V0//DE&amp;language=DE"
+    },
+    {
+      "id": "",
+      "src": "Wenn Sie Kunst lieben und sich für die Moderne [...] interessieren, dann ist dieses Zusatzprogramm ein besonderes Erlebnis und [...] die ideale Ergänzung zu Ihrem Deutschtraining!",
+      "dst": "If you are an art lover and interested in [...] Modern Art, then this additional program will be a special experience for you [...] and will be an ideal complement to your German language training!",
+      "url": "http://www.corso-di-tedesco.com/fileadmin/dam/de/bildungsangebot/deutschkurse/pdf/bro_09_deutschkurse_deutsch.pdf"
+    },
+    {
+      "id": "",
+      "src": "In erster Linie muss ich Ihnen allen danken, dass Sie Ihre Zeit in meinem Profil gelesen, ich bin süß, einfach liebevollen und fürsorglichen Mädchen, die in Not von Arbeitsplätzen zu mir selbst zu helfen, wie ich immer in Geldnot m und auch dazu beitragen, mein Bruder und Schwester Ich habe keine Familie, nie sah ich meine Eltern, wie ich leider sagen bin, wurde ich im Waisenhaus aufgewachsen [...] Hause, ich habe nur eine [...] Schwester und einen sehr süßen lieben Bruder, der immer in meinem [...] Herzen und Leben in Indien .",
+      "dst": "First and foremost I must thank you all for giving your time in reading my profile, I am sweet, simple loving and caring girl who is in need of job to help myself as I m always in lack of money and also help my brother and sister, I don"t have any family, I never saw my parents as I am sorry to say, I was grown [...] up in Orphanage home, I have only a [...] sister and a very sweet loving brother who is always [...] in my heart and lives in India.",
+      "url": "http://www.aupair.com/de/finde-nanny/nepali-nanny-aus-nepal-sucht-einen-nanny-job-in-kanada-216266.php"
+    },
+    {
+      "id": "",
+      "src": "Vor ihrer Ordination legen die Apostel folgendes Gelübde ab: "Vor Gott, dem Vater, seinem Sohn Jesus Christus und dem Heiligen Geist gelobe ich, Gott, den Allmächtigen, den Schöpfer aller Dinge, von [...] ganzem Herzen, von ganzer Seele und von ganzem Gemüt und von [...] ganzen Kräften zu lieben und meinen Nächsten [...] wie mich selbst.",
+      "dst": "Before their ordination the Apostles take the following vow: "Before God, the Father, His Son Jesus Christ, and the Holy Spirit I vow to love the Almighty God, the Creator of all [...] things, with all my heart, with all my soul, with all my being, and with all my [...] strength; also to love my neighbour as myself.",
+      "url": "http://www.nac-slovakia.org/fileadmin/Download/Struktur_Organisation_NAK.pdf"
+    },
+    {
+      "id": "",
+      "src": "Heinrich Heine wird von den Ufern Nordeneys das Epos Nord-See mitbringen, während Robert und Clara Schumann, an den Stränden der Ostsee entlang, von Konzert zu Konzert, Petersburg und Moskau (über Rigas Vagnera Sale, wo sich Anton Rubinstein, Hector Berlioz und Franz Liszt auszeichneten) zusammenführten; Moskau "Rußlands Wunderstadt" und ihre napoleonischen Erinnerungen und die Riesenglocke von Iwan Weliki im Kremlin, bevor sie bei der Rückkehr in ihr "geliebtes Deutschland" (22. Mai 1844) das wohltemperierte Gelaüt der St. Thomas Kirche zu Leipzig wiederantrafen oder die Glocken [...] der Marienkirche (völlig restauriert [...] 1839-1842) in ihrem "lieben Zwickau" und bei derselben [...] Gelegenheit diese "heilige Melancholie", [...] die sie an den Ufern der Moskwa nicht hatten vergessen können und die der Komponist bereits, und auf immer, in die Leinwand seiner durchscheinendsten Gefühlsregungen eingeschloßen hatte.",
+      "dst": "Heinrich Heine will bring back from the shores of Nordeney the epic Nord-See, while Robert and Clara Schumann travelling along the sands of the Baltic, joined up - from concert to concert - Petersburg and Moscow (via the Vagnera Sale of Riga where Anton Rubinstein, Hector Berlioz and Franz Liszt excelled); Moscow "the marvellous city" and its napoleonic souvenirs, and the giant bell of Iwan Weliki in the Kremlin, before meeting again on their return to their "beloved Germany" (22 May 1844) the well-tempered chime of the St Thomas church of Leipzig or the bells [...] of the Marienkirche (fully restored, [...] 1839-1842) of their "dear Zwickau", and on the [...] same occasion this "heilige Melancholie" [...] (holy melancholy) which they had been unable to forget on the banks of the Moscwa, and which the composer had already, and for ever, imprisoned in the canvas of his most diaphanous emotions.",
+      "url": "http://www.adg-paris.org/schumann_zwickau_de.asp"
+    },
+    {
+      "id": "",
+      "src": "du hast alle Ungerechtigkeiten, die giftigen Pfeile, die man auf dich abschiesst, mit dieser Tugend erduldet; du hast die großen Prüfungen um Unseres Namens willen ertragen; und viele, die dir widersprachen, konnten dich dennoch nicht zerbrechen; obwohl du äusserlich schwach erschienst, machte Ich dich innerlich stark, ein Beweis, dass Ich sehr wohl in dir bin und dass deine Tugend wirklich in der Wahrheit wurzelt; wie Ich [...] sagte, wenn du in [...] Mir, der Quelle Göttlicher Liebe, verwurzelt bist, dann wirst du die Tugend der Liebe erhalten, die Liebe wird dann andere Tugenden hervorbringen; jedem, der durch die Gnade erweckt wird, Mich zu lieben, werden zahlreiche Tugenden [...] geschenkt; und alles, [...] was verliehen wird, wird von Mir verliehen",
+      "dst": "you endured all the injustices, the venomous arrows thrust on you, with this virtue; you endured great trials for the sake of Our Name; and many who contradicted you were not able to break you; although from the exterior you appeared frail, I rendered you strong from within, proof that I am well within you, and that your virtue is indeed rooted in the Truth; as I have said, if you are [...] rooted in Me, who am the [...] Source of Divine Love, you will obtain the virtue of love, then like little branches, Love will give birth to other virtues; there are numerous virtues given to each one, who, by grace were raised to love Me; and everything that [...] is distributed is distributed by Me",
+      "url": "http://www.tlig.org/de/messages/1030/"
+    }
+  ]
+}
